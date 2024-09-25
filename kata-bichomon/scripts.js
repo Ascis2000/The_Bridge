@@ -103,7 +103,6 @@ este "https://media.giphy.com/media/2v170e71aanfi/giphy.gif"
 */
 function ejercicio_06(){
     console.log("// Ejercicio 6");
-    console.log("Dominio", window.location.hostname);
 
     // Seleccionamos todos los nodos de imagen
     let selectorImagenes = document.querySelectorAll('img'); 
@@ -119,7 +118,6 @@ Pokimon voladores itype flying
 */
 function ejercicio_07(){
     console.log("// Ejercicio 7");
-    console.log("Dominio", window.location.hostname);
 
     let padre;
     // Seleccionamos todos los nodos de pokemon con class='itype flying'
